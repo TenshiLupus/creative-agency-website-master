@@ -16,6 +16,7 @@
 html, body{
     font-family: 'Poppins', sans-serif;
     color: #111;
+    height: 100%;
 }
 
 h1{
@@ -37,7 +38,7 @@ section{
     margin-top: 60px;
 }
 
-section.home{
+section x§zzz   .home{
     flex-direction: row;
     margin-top: 0;
 }
